@@ -1,0 +1,10 @@
+.board-row {
+  display: flex;
+  justify-content: center;
+}
+
+.board-row button {
+  font-size: 4rem;
+  width: 70px;
+  height: 70px;
+}
